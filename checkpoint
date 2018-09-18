@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/bkd/Downloads/code/model.ckpt"
+all_model_checkpoint_paths: "/home/bkd/Downloads/code/model.ckpt"
